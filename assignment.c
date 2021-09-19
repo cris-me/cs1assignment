@@ -11,6 +11,10 @@ Class:      COP 3502C 0V02
 #include "sp21_cop3502_as1.h"
 #include "leak_detector_c.h"
 
+/*
+Here are some edits I am making
+*/
+
 
 /* As given by Professor Gerber*/
 void remove_crlf(char *s)
