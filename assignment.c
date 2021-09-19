@@ -19,6 +19,10 @@ Here are some edits I am making
 Here are some more edits
 */
 
+/*
+Some more edits
+*/
+
 
 /* As given by Professor Gerber*/
 void remove_crlf(char *s)
