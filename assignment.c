@@ -15,6 +15,10 @@ Class:      COP 3502C 0V02
 Here are some edits I am making
 */
 
+/*
+Here are some more edits
+*/
+
 
 /* As given by Professor Gerber*/
 void remove_crlf(char *s)
